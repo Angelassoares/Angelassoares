@@ -1,4 +1,4 @@
-# 👩‍💻 Angela Soares
+#  Angela Soares
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas na ETEC  
 ### 💡 Formação em Informática Profissional  
