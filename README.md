@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👩‍💻 Angela Soares
 
-<!--
-**Angelassoares/Angelassoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de Desenvolvimento de Sistemas na ETEC  
+### 💡 Formação em Informática Profissional  
 
-Here are some ideas to get you started:
+Olá! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também concluí um curso de Informática Profissional, que me proporcionou uma sólida base no uso de ferramentas digitais e no ambiente computacional.
+No momento, estou aprofundando meus conhecimentos em desenvolvimento de sites e aplicativos, com foco em continuar evoluindo na área de tecnologia.
+Atualmente, estou aprofundando meus conhecimentos em *desenvolvimento de sites e aplicativos*, sempre buscando evoluir e explorar novas tecnologias.  
+
+---
+
+## 🌟 Habilidades (Skills)
+
+### Linguagens de Programação
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+- ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+
+### Ferramentas & Tecnologias
+- ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
+
+### Design
+- ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma)
+
+---
+
+## 📫 Contato  
+
+- *E-mail:* as7811420@email.com  
+- *LinkedIn:*
+  
+---
+
+✨ Sigo aprendendo e evoluindo a cada linha de código!
