@@ -23,4 +23,4 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sites e 
 
 ---
 
-✨ Sempre com delicadeza, criatividade e uma pitadinha de código encantador!
+✨ Seguindo sempre em frente, uma linha de código de cada vez!
