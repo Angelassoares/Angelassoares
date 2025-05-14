@@ -20,7 +20,7 @@ Atualmente, estou aprofundando meus conhecimentos em *desenvolvimento de sites e
 
 ### Ferramentas & Tecnologias
 - ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode)
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+- ![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat&logo=mysql)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
 
 ### Design
