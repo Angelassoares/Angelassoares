@@ -19,7 +19,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sites e 
 
 ## 💌 Contato  
 - E-mail: as7811420@email.com  
-- LinkedIn: [Seu LinkedIn](insira_o_link_aqui)
+- LinkedIn: [Angela Soares](linkedin.com/in/angela-soares-a78891365)
 
 ---
 
