@@ -16,7 +16,7 @@ Atualmente, estou aprofundando meus conhecimentos em *desenvolvimento de sites e
 ### Linguagens de Programação
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 - ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+- ![CSS3](https://img.shields.io/badge/-CSS3-pink?style=flat&logo=css3)
 
 ### Ferramentas & Tecnologias
 - ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode)
