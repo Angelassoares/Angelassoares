@@ -5,7 +5,7 @@
 ### 🌷 Formação em Informática Profissional  
 
 Olá!  
-Sou apaixonada por tecnologia e criatividade! Estudo Desenvolvimento de Sistemas na ETEC e tenho formação em Informática Profissional, onde adquiri uma base sólida em ferramentas digitais e ambientes computacionais.  
+Sou apaixonada por tecnologia! Estudo Desenvolvimento de Sistemas na ETEC e tenho formação em Informática Profissional, onde adquiri uma base sólida em ferramentas digitais e ambientes computacionais.  
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sites e aplicativos, sempre buscando evoluir e explorar novas tecnologias.  
 
 ---
